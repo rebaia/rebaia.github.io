@@ -2,10 +2,10 @@
 <span id="a">rebaia@cummins</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->rebaia.txt<br/><br/>
 <!-- sjkfhskjf -->
 
-ello, i'm rebaia! i go by the pronouns <a>she/her</a> and the names <a>athena, laika, tressa, celeste, venus, and luna</a> 
-<p>i am currently self teaching myself astronomy, and learning rust.</p>
-<p>i like computers in general, music, photography, astronomy, and graphic design.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> if you want to see some of my photography, here's my <a href="https://www.flickr.com/photos/193112887@N02/">flickr</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+ello, i'm rebaia! i go by the pronouns <!-- kjsdfhkjdhsfkjdshfkj --><a>she/her</a> and the names <!-- kjsdfhkjdhsfkjdshfkj --><a>athena, laika, tressa, celeste, venus, and luna</a> 
+<!-- kjsdfhkjdhsfkjdshfkj --><p>i am currently self teaching myself astronomy, and learning rust.</p>
+<!-- kjsdfhkjdhsfkjdshfkj --><p>i like computers in general, music, photography, astronomy, and graphic design.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<!-- kjsdfhkjdhsfkjdshfkj --><p> if you want to see some of my photography, here's my <a href="https://www.flickr.com/photos/193112887@N02/">flickr</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p>if you want my socials, <br><br><br>here's my <a href="https://keyoxide.org/hkp/83FBCECF67C0ED361377B20B11F0A1E0CA56D91B"> keyoxide</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> alternatively, here's some of my profiles directly: <br> <a href="https://cybre.space/@rebaia">fediverse</a> <br> <a href="https://twitter.com/ROCKETBOYS_">twitter</a> and <br> <a href="https://www.last.fm/user/rebaia_">last.fm</a>.</p>
 
